@@ -3,18 +3,22 @@ body {
 
 }
 
-.aboutme {
+.about{
   background-color: black;
+  color: white;
 }
 
 .code {
   background-color: gray;
+  color: white;
 }
 
 .resume {
   background-color: blue;
+  color: white;
 }
 
 .contact {
   background-color: red;
+  color: white;
 }
