@@ -1,24 +1,35 @@
 body {
+  min-height: 97vh;
   display: flex;
+  flex-wrap: wrap;
 
 }
 
 .about{
   background-color: black;
   color: white;
+  width: 50%;
+  text-align: center;
+
 }
 
 .code {
   background-color: gray;
   color: white;
+  width: 50%;
+  text-align: center;
 }
 
 .resume {
   background-color: blue;
   color: white;
+  width: 50%;
+  text-align: center;
 }
 
 .contact {
   background-color: red;
   color: white;
+  width: 50%;
+  text-align: center;
 }
